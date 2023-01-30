@@ -13,3 +13,12 @@ int main() {
     return 0;
 }
 
+
+/*
+
+ int *tab[100000];
+ for (int i=0; i<10000;i++) tab[i]=calloc(n, sizeof(int));
+
+ https://code-with-me.global.jetbrains.com/95-qbt3sjXdmvh1ieLJ4sQ#p=CL&fp=7C3726F1970C7FE5A46AC19906EC1E4C845E2FBA5EBF4B70396F4054757064C2
+
+ */
