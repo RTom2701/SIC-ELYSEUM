@@ -3,7 +3,6 @@
 int main() {
     FILE *f;
     char c;
-
     int i=0;
     f=fopen("10.input","rt");
     while((c=fgetc(f))!=EOF){
