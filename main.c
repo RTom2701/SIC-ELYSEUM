@@ -9,9 +9,11 @@ int main() {
     f=fopen("10.input","rt");
     while((c=fgetc(f))!=EOF){
         //s[i]="a";
+        //salut
         i++;
     }
     printf("%d", s[0]);
     fclose(f);
     return 0;
 }
+
